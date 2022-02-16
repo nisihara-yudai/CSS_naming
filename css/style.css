@@ -1,0 +1,42 @@
+.card-design__container {
+    width: 760px;
+}
+
+.card-design__ttl__wrapper {
+    box-shadow: 0 0 6px #eeeeee;
+}
+
+.card-design__ttl__title__wrapper{
+    display: flex;
+}
+
+img.card-design__pic {
+    width: 40%;
+}
+
+.card-design__ttl_wrapper {
+    margin: 10px 20px;
+}
+
+.card-design__ttl__title {
+    font-weight: bold;
+    flex-wrap: wrap;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.card-design__sub-ttl__wrapper {
+    display: flex;
+}
+
+.card-design__subttl__wrapper {
+    display: flex;
+}
+
+p.card-design__subttl {
+    margin-right: 40px;
+}
+
+p.card-design__subttl__sch {
+    color: #f00;
+}
